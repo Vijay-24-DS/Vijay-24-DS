@@ -6,7 +6,7 @@
 
 <br />
 
-[![LinkedIn](https://www.linkedin.com/in/vijaykumar9119/)
+[![LinkedIn]([https://www.linkedin.com/in/vijaykumar9119/](https://www.linkedin.com/in/vijaykumar9119?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghvandrasingh111@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=Vikaskumar75&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
