@@ -164,7 +164,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 🎓 Mentoring & knowledge sharing
 - 🤝 Networking with fellow developers
 
-**📫 Reach me at:** [raghvandrasingh111@gmail.com](mailto:raghvandrasingh111@gmail.com)
+**📫 Reach me at:** [vijaykumar.ds24@gmail.com](vijaykumar.ds24@gmail.com)
 
 <br />
 
